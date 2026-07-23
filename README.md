@@ -6,6 +6,13 @@ InsightGenAI is an end-to-end AI-powered Data Analytics Platform that automates 
 
 ---
 
+## 🌐 Live Demo
+
+**Try the application here:**  
+https://vridhi-insightgen-ai.streamlit.app/
+
+---
+
 # ⭐ Why I Built InsightGenAI
 
 While working on multiple data analytics projects, I noticed that every project followed the same repetitive workflow:
