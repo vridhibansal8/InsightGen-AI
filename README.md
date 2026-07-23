@@ -423,5 +423,11 @@ InsightGenAI is built with that vision—helping analysts work faster, uncover d
 
 **Data Analyst | Python | SQL | PostgreSQL | Power BI | Streamlit | Generative AI**
 
+📧 Email: vridhibansal8@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/vridhi-bansal
+
+🐙 GitHub: https://github.com/vridhibansal8
+
 If you found this project helpful, consider giving it a ⭐ and feel free to connect or share your feedback!
 
